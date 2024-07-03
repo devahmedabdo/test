@@ -180,6 +180,10 @@ button[type='submit'] {
   color: white;
 }
 
+.login-image>div p:lang(ar) {
+  font-size: 22px;
+}
+
 .login-image>div img.icon {
   position: absolute;
   left: 0%;
