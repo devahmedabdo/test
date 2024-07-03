@@ -184,6 +184,13 @@ button[type='submit'] {
   font-size: 22px;
 }
 
+@media (max-width:1100px) {
+  .login-image>div p {
+    font-size: 22px;
+  }
+
+}
+
 .login-image>div img.icon {
   position: absolute;
   left: 0%;
